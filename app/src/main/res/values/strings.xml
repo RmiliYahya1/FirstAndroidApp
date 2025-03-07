@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravailleARendre1</string>
+    <string name="nomPrenom">Nom et prénom</string>
+    <string name="email">Email</string>
+    <string name="telephone">Phone</string>
+    <string name="adresse">Adresse</string>
+    <string name="ville">Ville</string>
+    <string name="btn">Envoyer</string>
+</resources>
